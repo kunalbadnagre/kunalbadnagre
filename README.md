@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I am is Kunal Badnagre
+#### Design and Development
+I am a frontend developer. I really enjoy learning languages and frameworks like React. I also enjoy ui, ux and design in general.
 
-<!--
-**kunalbadnagre/kunalbadnagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
+* ⚛ React
+* 💻 HTML, CSS and JAVASCRIPT
+* JAVA
+* Data Structure and Algorythm
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Node js 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kunalbadnagre)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kunal-badnagre//)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalbadnagre&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/kunalbadnagre)  
