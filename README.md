@@ -6,7 +6,7 @@ I am a frontend developer. I really enjoy learning languages and frameworks like
 * ⚛ React
 * 💻 HTML, CSS and JAVASCRIPT
 * JAVA
-* Data Structure and Algorythm
+* Data Structure and Algorithm
 
 - 🌱 I’m currently learning Node js 
 
