@@ -1,4 +1,4 @@
-### Hi there 👋, I am Kunal Badnagre
+### Hi there 👋, My name is Kunal Badnagre
 #### Design and Development
 I am a frontend developer. I really enjoy learning languages and frameworks like React. I also enjoy ui, ux and design in general.
 
