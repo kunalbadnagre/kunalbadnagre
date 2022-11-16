@@ -2,6 +2,8 @@
 #### Design and Development
 I am a frontend developer. I really enjoy learning languages and frameworks like React. I also enjoy Ui, Ux and design in general.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalbadnagre&show_icons=true)  
+
 ## Skills:
 * ⚛ React
 * 💻 HTML, CSS and JAVASCRIPT
