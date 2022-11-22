@@ -1,4 +1,5 @@
-### Hi there 👋, My name is Kunal Badnagre
+### Hi there 👋, My name is Kunal Badnagre [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]((https://kunalbadnagre-portfolio.netlify.app/)  )  
+
 #### Design and Development
 I am a frontend developer. I really enjoy learning languages and frameworks like React. I also enjoy Ui, Ux and design in general.
 
