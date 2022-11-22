@@ -12,7 +12,7 @@ I am a frontend developer. I really enjoy learning languages and frameworks like
 * Data Structure and Algorithm
 
 - 🌱 I’m currently learning Backend
-- - 👨‍💻 All of my projects are available at [https://kunalbadnagre-portfolio.netlify.app/](https://kunalbadnagre-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Kunal Badnagre](https://kunalbadnagre-portfolio.netlify.app/)
 
 
 <h3 align="left">Connect with me:</h3>
