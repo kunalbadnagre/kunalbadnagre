@@ -11,6 +11,7 @@ I am a frontend developer. I really enjoy learning languages and frameworks like
 * Data Structure and Algorithm
 
 - 🌱 I’m currently learning Backend
+- [Resume](https://kunalbadnagre-portfolio.netlify.app/pdf/Resume-Kunal%20Badnagre.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
