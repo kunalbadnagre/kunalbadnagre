@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is [Kunal Badnagre](https://kunalbadnagre-portfolio.netlify.app/) 
 
-#### Design and Development
 I am a frontend developer. I really enjoy learning languages and frameworks like React. I also enjoy Ui, Ux and design in general.
 
 ![Profile views](https://gpvc.arturio.dev/kunalbadnagre)  
