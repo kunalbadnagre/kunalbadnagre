@@ -11,7 +11,7 @@ I am a frontend developer. I really enjoy learning languages and frameworks like
 * JAVA
 * Data Structure and Algorithm
 
-- 🌱 I’m currently learning Node js 
+- 🌱 I’m currently learning Backend
 
 
 <h3 align="left">Connect with me:</h3>
